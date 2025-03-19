@@ -1,4 +1,4 @@
-# Coffee_Salse_Analysis
+# Coffee_sales_Analysis
 ![Logo](https://github.com/user-attachments/assets/4f1e25f0-47e5-4de5-b7a0-314d58d8ebc8)
 
 ## Overview : 
