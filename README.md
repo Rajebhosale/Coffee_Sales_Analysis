@@ -27,6 +27,7 @@ This dashboard is for presenting my insights to the regional manager of the coff
 I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce the costs of operations.
 
 ## Dashboard :
-![dashboard](https://github.com/user-attachments/assets/a7596192-7dc9-4273-9ed5-4559a3a08199)
+
+![DASHBOARD](https://github.com/user-attachments/assets/9f100e61-a5a6-45a0-b4b2-a0bc57b14ec8)
 
 
